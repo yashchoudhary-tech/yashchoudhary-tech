@@ -111,28 +111,28 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yashintech">
+  <a href="https://www.linkedin.com/in/yashchoudhary-tech">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/YashInTech">
+  <a href="https://twitter.com/SyntaxTitan">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://hashnode.com/yashintech">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="yashintech" height="40" width="52" />
+  <a href="https://hashnode.com/SyntaxTitan">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="SyntaxTitan" height="40" width="52" />
   </a>
-  <a href="https://www.leetcode.com/yashintech" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashintech" height="40" width="52" />
+  <a href="https://www.leetcode.com/SyntaxTitan" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SyntaxTitan" height="40" width="52" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/yashuwho">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashuwho" height="40" width="52" />
   </a>
-  <a href="https://dev.to/yashintech">
+  <a href="https://dev.to/SyntaxTitan">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" />
   </a>
-  <a href="https://codepen.io/YashInTech">
+  <a href="https://codepen.io/SyntaxTitan">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo" />
   </a>
-  <a href="https://www.instagram.com/_yashuwho">
+  <a href="https://www.instagram.com/yash.hooda">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
@@ -140,8 +140,8 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashInTech&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashInTech&show_icons=true&locale=en" height="150" alt="languages graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxTitan&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SyntaxTitan&show_icons=true&locale=en" height="150" alt="languages graph" />
 </div>
 
 ###
