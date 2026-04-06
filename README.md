@@ -114,7 +114,7 @@
   <a href="https://www.linkedin.com/in/yashchoudhary-tech">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/SyntaxTitan">
+  <a href="https://x.com/_SupremeStrange">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
   <a href="https://hashnode.com/SyntaxTitan">
@@ -132,7 +132,7 @@
   <a href="https://codepen.io/SyntaxTitan">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo" />
   </a>
-  <a href="https://www.instagram.com/yash.hooda">
+  <a href="https://www.instagram.com/theyoungyash">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
@@ -140,8 +140,8 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxTitan&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SyntaxTitan&show_icons=true&locale=en" height="150" alt="languages graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashchoudhary-tehc&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashchoudhary-tech&show_icons=true&locale=en" height="150" alt="languages graph" />
 </div>
 
 ###
