@@ -13,11 +13,11 @@ I'm a Software Engineer, currently focused on building backend systems and produ
 * 🔨  Building and working on product-focused backend systems
 * 🧠  Deepening my expertise in Backend development
 * 👥  Looking to collaborate on projects
-* 💬  Ask me about Life in the fast lane.
 * 💼  LinkedIn: linkedin.com/in/yashchoudhary-tech
 * 💻  GitHub: github.com/yashchoudhary-tech
 * 🌐  Portfolio: yashchoudhary-tech.vercel.app
 * ✉️  Email: yashchoudhary.tech@gmail.com
+* 💬  Ask me about Life in the fast lane.
 
 Before moving deeper into backend engineering, I worked across the full-stack JavaScript ecosystem, building applications with React, Next.js, Node.js and MongoDB.
 
@@ -92,10 +92,6 @@ Now I'm focused on becoming a stronger backend engineer while continuing to leve
 <td><a href="https://www.youtube.com/@theyoungyash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></td>
 </tr>
 </table>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/yashchoudhary-tech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchoudhary-tech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
