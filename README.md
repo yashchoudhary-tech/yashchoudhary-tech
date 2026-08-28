@@ -1,22 +1,27 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yash Choudhary
 =======================================================================================================================================
 
-🚀 Aspiring Software Engineer
+🚀 Software Engineer | Backend
 -----------------------------
 
-I'm a 2025 Electronics & Communication Engineering Graduate on a mission to build a career in Software Engineering - a path I've been passionate about since my school days.
+I'm a Software Engineer, currently focused on building backend systems and product features.
 
-💻 I've been actively learning and working with the JavaScript full-stack ecosystem, building projects and exploring modern tools to create real-world applications.
+💻 I started out working primarily with the JavaScript/TypeScript ecosystem and have since expanded into Python backend development, working with FastAPI, PostgreSQL, SQLAlchemy, Docker and GraphQL. I'm particularly interested in backend architecture, APIs, databases, and building reliable systems that solve real product problems.
 
-📮 Currently, I'm actively looking for opportunities in tech - feel free to connect or collaborate!
-
-* 🌍  I'm based in Delhi NCR, India
-* 🖥️  See my portfolio at [yashchoudhary-tech.vercel.app](http://yashchoudhary-tech.vercel.app)
-* ✉️  You can contact me at [yashchoudhary.tech@gmail.com](mailto:yashchoudhary.tech@gmail.com)
-* 🚀  I'm currently working on [Event-Edge](http://event-edge.vercel.app)
-* 🧠  I'm currently learning python backend
-* 👥  I'm looking to collaborate on backend/full-stack projects
+* 🚀  Working as a Software Engineer
+* 🌍  Currently, based in Hyderabad, India
+* 🔨  Building and working on product-focused backend systems
+* 🧠  Deepening my expertise in Backend development
+* 👥  Looking to collaborate on projects
 * 💬  Ask me about Life in the fast lane.
+* 💼  LinkedIn: linkedin.com/in/yashchoudhary-tech
+* 💻  GitHub: github.com/yashchoudhary-tech
+* 🌐  Portfolio: yashchoudhary-tech.vercel.app
+* ✉️  Email: yashchoudhary.tech@gmail.com
+
+Before moving deeper into backend engineering, I worked across the full-stack JavaScript ecosystem, building applications with React, Next.js, Node.js and MongoDB.
+
+Now I'm focused on becoming a stronger backend engineer while continuing to leverage my full-stack experience when building complete products.
 
 <p align="left">
 
